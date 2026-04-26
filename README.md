@@ -13,8 +13,8 @@ I work on the medical side of AI, exploring how to refine accurate diagnoses of 
 
 ## Hugging Face
 
-Profile: https://huggingface.co/hsienberg
-Collection: [Medical Things That I Researched that Inspired Me] https://huggingface.co/collections/hsienberg/med
+-Profile: https://huggingface.co/hsienberg
+-Collection: [Medical Things That I Researched that Inspired Me] https://huggingface.co/collections/hsienberg/med
 
 ## Research Journal
 
